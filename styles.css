@@ -1,0 +1,125 @@
+html{font-size:20px;}
+
+*,
+*::before,
+*::after{font-size: inherit} 
+ul {height:40px;
+  width:100%; 
+  color: white;
+  padding:20px 40px 20px;    
+    background: rgb(20, 140, 173);
+  color: white;
+}
+
+ul{display:flex;
+list-style-type: none;
+justify-content: space-around}
+
+li{font-size: 16px;
+margin:16px}
+
+.peace{font-size:22px;
+margin: 16px;padding-right:20%;padding-left: 50px}
+
+div {
+  display: flex;
+margin: 10px}
+
+div{font-size: 10px;}
+
+.head {
+  font-size: 20px;
+}
+
+.container{text-align: right}
+
+img {height: 100px;
+  width: 100px;}
+
+  #joy {height: 15px;
+    width: 15px;}
+
+    #paragraph{color:rgb(20,140,173);
+font-size: 30px;
+text-align: center;}
+
+.second{
+background-color: rgb(20, 140, 173);
+padding: 100px 150px}
+
+.first{padding: 100px 100px;text-align: center;
+}
+
+h1{font-size: 40px}
+
+h2{font-size: 30px}
+
+.second{color: white}
+
+.fourth{background: rgb(20,140,173);
+color:white;
+text-align: center;
+padding: 50px}
+
+.a{text-align: left;
+width: 50%;
+padding-right: 40px}
+
+.b{text-align: right;
+width: 50%;
+padding-left: 100px}
+
+.d{background: 1px solid grey}
+
+.a>p{font-size: 20px}
+
+.b>p{font-size: 20px}
+
+.third{
+padding:80px 150px}
+
+.d>p{font-size:20px;
+  text-align: center}
+
+  .e>p{font-size: 20px;
+  text align: center}
+
+  .f>p{font-size: 20px;
+  text-align: center;}
+
+  .third>h1{color: rgb(20, 140, 173)}
+
+  div>.d{background:rgb(122, 117, 124);
+  width: 70%;
+  border:5px;
+margin:40px;
+padding: 10px
+}
+
+div>.e{background: rgb(122, 117, 124);
+  width: 70%;
+  border: 5px;
+margin:40px;
+padding: 10px
+}
+
+div>.f{background:1px rgb(122, 117, 124);
+  width: 70%;
+  border:5px;
+margin:40px;
+padding: 10px
+}
+
+div>.d{color:white}
+
+div>.e{color: white}
+
+div>.f{color:white}
+
+.d>h2{text-align: center}
+
+.e>h2{text-align: center}
+
+.f>h2{text-align: center}
+
+.e>p{text-align: center}
